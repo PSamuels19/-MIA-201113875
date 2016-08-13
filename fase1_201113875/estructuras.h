@@ -46,7 +46,7 @@ typedef struct Mount{
     char path[250];
     char name[50];
     int DiskNumber;
-    int part;
+    int parti;
     int estado;
 }montar;
 
